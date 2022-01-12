@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="backgroundopacity">#AB363535</color>
+    <color name="startcolorgradient">#443C20</color>
+    <color name="endcolorgradient">#e8a564</color>
+
+    <color name="fbColor">#0D8AF0</color>
+    <color name="googleColor">#F44336</color>
+    <color name="tintlogocolor">#AC7A4A</color>
+
+</resources>
